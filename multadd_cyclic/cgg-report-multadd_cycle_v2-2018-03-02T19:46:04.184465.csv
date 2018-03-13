@@ -1,0 +1,1 @@
+graph,activation_function,learning_rate,type_regul,regul,asymmetry,shortcut,dropout,asymfactor,batchnorm,n_h,use_dif,method,train,test,runs,Wtype,AUPR
